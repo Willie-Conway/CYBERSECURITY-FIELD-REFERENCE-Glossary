@@ -1,4 +1,4 @@
-![alt text](Screenshots/Reference glossary.png)
+![alt text](<Screenshots/Reference glossary.png>)
 
 # 📖 Cybersecurity — Field Reference Glossary
 
