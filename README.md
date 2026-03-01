@@ -1,3 +1,5 @@
+![alt text](Screenshots/Reference glossary.png)
+
 # 📖 Cybersecurity — Field Reference Glossary
 
 ![Cybersecurity Field Reference](https://img.shields.io/badge/CYBERSECURITY-Field_Reference-f43f5e?style=for-the-badge&logo=letsencrypt&logoColor=white)
@@ -14,11 +16,15 @@
 </p>
 
 ---
+
 ## Overview
+
 This is a cybersecurity glossary that I created to help me study for the CompTIA Security+ exam. It is a collection of terms and definitions that I found useful while studying for the exam. I hope you find it useful as well.
 
 ## 📖 **About This Project**
+
 This interactive glossary is designed to help cybersecurity professionals quickly reference key terms, concepts, and techniques across the field. Built with a clean, dark-themed interface, it features:
+
 - **Search functionality** (Ctrl/Cmd + K)
 - **Filtering by category**
 - **Expand/collapse all definitions**
@@ -50,12 +56,17 @@ This interactive glossary is designed to help cybersecurity professionals quickl
 - Password attacks: Brute Force, Dictionary, Rainbow Attacks
 - Advanced threats: Polymorphic Viruses, Stealth Viruses, Replay Attacks
 
+![alt text](<Screenshots/Attacks & Threats.png>)
+
 #### **Defense & Protection** 🛡️
 
 - Security tools: Firewalls, Antivirus, File Integrity Monitoring
 - Best practices: Hardening, Patch Management, Strong Passwords
 - System security: Secure Boot, TPM, Autorun controls
 - Monitoring: Logs, Auditing, Digital Accounting
+
+
+![alt text](<Screenshots/Defense & Protection.png>)
 
 #### **Cryptography** 🔐
 
@@ -65,12 +76,19 @@ This interactive glossary is designed to help cybersecurity professionals quickl
 - Hashing: Cryptographic Hash, Password Hash, Digital Signatures
 - Protocols: IPsec, AH, ESP, IKE
 
+
+![alt text](Screenshots/Cryptography.png)
+
+
 #### **Authentication & Access** 🔑
 
 - Methods: SSO, 2FA, MFA, Smart Card Authentication
 - Factors: Something you know/have/are
 - Access Control: RBAC, ROLP, Authorization
 - Concepts: Non-repudiation, Trusted Entities, Access Tokens
+
+![alt text](<Screenshots/Authentication & Access.png>)
+
 
 #### **Networking & VPN** 🌐
 
@@ -80,6 +98,10 @@ This interactive glossary is designed to help cybersecurity professionals quickl
 - Protocols: HTTP, HTTPS, IPsec, IKE
 - Security: Anti-Replay Protection, Security Associations
 
+
+![alt text](<Screenshots/Networking & VPN.png>)
+
+
 #### **Data & Privacy** 📊
 
 - Data classifications: PII, PHI, Confidential Information
@@ -88,6 +110,10 @@ This interactive glossary is designed to help cybersecurity professionals quickl
 - Concepts: Data Integrity (Physical/Logical), Data Breaches
 - Analytics: Data Capture, Correlation, Meaningful Reporting
 
+
+![alt text](<Screenshots/Data & Privacy.png>)
+
+
 #### **Browser & Web** 🌍
 
 - Browser components: Extensions, Add-ons, Plug-ins, Toolbars
@@ -95,12 +121,19 @@ This interactive glossary is designed to help cybersecurity professionals quickl
 - Privacy: Private Browsing, Incognito Mode, Cache
 - Security: HTTPS Websites, SSL Certificates, ActiveX, Java
 
+
+![alt text](<Screenshots/Browser & Web.png>)
+
+
 #### **General Concepts** 📌
 
 - Security frameworks: CIA Triad
 - Hardware: BIOS, UEFI, Firmware
 - Legal: DMCA, DRM, Intellectual Property
 - Career: Entry-Level, Median, Range
+
+
+![alt text](<Screenshots/General Concepts.png>)
 
 ### 🔍 **Advanced Search & Filtering**
 
@@ -385,8 +418,6 @@ MIT License — see LICENSE file for details.
 - [ ] Export glossary as PDF
 - [ ] Add quiz mode for self-testing
 - [ ] Include real-world breach examples
-
-
 
 ---
 
