@@ -1,6 +1,6 @@
-![alt text](<Screenshots/Reference glossary.png>)
-
 # 📖 Cybersecurity — Field Reference Glossary
+
+![alt text](<Screenshots/Reference glossary.png>)
 
 ![Cybersecurity Field Reference](https://img.shields.io/badge/CYBERSECURITY-Field_Reference-f43f5e?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
